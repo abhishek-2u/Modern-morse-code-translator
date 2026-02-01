@@ -15,12 +15,18 @@ This project allows users to convert **text into Morse code** and also **decode 
 - CSS3
 - JavaScript
 
-## 🔹 Purpose
-This project is created for:
-- Practicing JavaScript logic
-- Understanding string manipulation
-- Improving DOM manipulation skills
-- Portfolio and internship showcase
+## 🎯 Purpose of the Project
+This project was developed with the following objectives:
+
+- To **strengthen JavaScript fundamentals**, especially string manipulation and logical mapping  
+- To gain hands-on experience with **DOM manipulation and event handling**  
+- To understand **real-world encoding and decoding systems** like Morse Code  
+- To build a **practical and interactive project** suitable for:
+  - Portfolio showcase  
+  - Internship applications  
+  - Frontend development practice  
+
+The project reflects problem-solving skills and the ability to convert theoretical knowledge into a working web application.
 
 ## 🔹 How to Use
 1. Clone or download the repository  
